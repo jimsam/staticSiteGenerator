@@ -12,5 +12,3 @@ The first line inside your md file that is a header will server as the page titl
 ## Adding more pages
 
 Inside the context folder add a folder for each page you want to generate and inside this folder add you `index.md` file.
-
-The currect content of the context folder are from doing an exercise in `boot.dev`.
